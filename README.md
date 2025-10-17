@@ -50,9 +50,9 @@ http://127.0.0.1:8000/me
 You can override defaults with environment variables:
 
 Variable	Description	Default
-HNG_EMAIL	Your email address	stdave001@gmail.com
-HNG_NAME	Your name	Ibukun Babatunde
-HNG_STACK	Your preferred stack	Python/FastAPI
+HNG_EMAIL	Your email address eg	stdave001@gmail.com
+HNG_NAME	Your name eg	Ibukun Babatunde
+HNG_STACK	Your preferred eg stack	Python/FastAPI
 
 Example (macOS/Linux):
 
